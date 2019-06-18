@@ -1,3 +1,3 @@
 # MachineLearning
 
-K-Means Clustering and K-Nearest Neighbors classification algorithms implementation
+Clustering, Regression and Classification machine learning algorithms
